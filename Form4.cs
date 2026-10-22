@@ -16,5 +16,6 @@ namespace pr08skolkomoshno
         {
             InitializeComponent();
         }
+
     }
 }
